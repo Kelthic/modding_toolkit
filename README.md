@@ -8,8 +8,12 @@ _Written for Blender 5.0.1_
 This tool allows you to combine different weights into a single selected weight, thereby simplifying the process of re-rigging for games. 
 
 ### How it works:
-
-<img src="https://i.postimg.cc/vT2XG7bW/ezgif-4a36e002e6fe87db.gif" alt="Alt text">
+<details>
+  <summary>GIF (open me)</summary>
+  
+  <img src="https://github.com/Kelthic/modding_toolkit/blob/main/weights_merger/weights_merger.gif">
+  
+</details>
 
 Text manual:
 
