@@ -3,7 +3,7 @@ This is my personal modding toolkit list for Blender
 
 ## Weights Merger
 
-_Writed to Blender 5.0.1_
+_Written for Blender 5.0.1_
 
 This tool allows you to combine different weights into a single selected weight, thereby simplifying the process of re-rigging for games. 
 
