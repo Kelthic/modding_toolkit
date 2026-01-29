@@ -9,7 +9,7 @@ This tool allows you to combine different weights into a single selected weight,
 
 ### How it works:
 
-![Gif example](https://i.postimg.cc/vT2XG7bW/ezgif-4a36e002e6fe87db.gif)
+<img src="https://i.postimg.cc/vT2XG7bW/ezgif-4a36e002e6fe87db.gif" alt="Alt text">
 
 Text manual:
 
