@@ -24,7 +24,7 @@ Text manual:
 5. Click the button
 6. Success
 
-## Helldivers II Weights Assistant
+## Helldivers II Porting Assistant
 
 This tool designed to safely synchronize structural data between original mesh objects and new meshes with duplicated names for game export pipelines via HD2SDK.
 
