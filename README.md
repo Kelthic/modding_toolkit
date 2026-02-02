@@ -45,9 +45,23 @@ The add-on will automatically:
 * reorder groups correctly
 * restore the original pivot
 
-#### Only mesh objects are supported.
-#### The add-on does not rename or merge vertex groups.
-#### Original objects are never modified during synchronization.
+### How to use
+
+1. Select the original meshes from which you want to save data (including weights, matrix-world, origins, custom properties) 
+2. Click Export Originals 
+3. Now select the objects to which you want to transfer the saved data 
+4. Click Sync Duplicates 
+5. Done! The data should have been transferred, and the monotonous work is gone
+
+**ensure that your new meshes have duplicate names of the original body parts**
+
+Only mesh objects are supported.
+
+The add-on does not rename or merge vertex groups.
+
+Original objects are never modified during synchronization.
+
+
 
 
 # ...
