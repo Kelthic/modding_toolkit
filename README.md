@@ -26,6 +26,8 @@ Text manual:
 
 ## Helldivers II Porting Assistant
 
+_Written for Blender 4.2_
+
 This tool designed to safely synchronize structural data between original mesh objects and new meshes with duplicated names for game export pipelines via HD2SDK.
 
 It helps prevent common rigging and deformation issues caused by:
