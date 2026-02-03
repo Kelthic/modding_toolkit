@@ -61,7 +61,20 @@ The add-on does not rename or merge vertex groups.
 
 Original objects are never modified during synchronization.
 
+## PlanetSide 2 rig to Helldivers II rig
 
+_Written for Blender 4.2_
 
+This repository contains a Python script for **Blender 4.2** designed to automatically rename character armature bones from **PlanetSide 2** to the **Helldivers II** naming convention.
+
+### How to Use
+
+1. Open **Blender 4.2**
+2. Import your **PlanetSide 2** character model/armature
+3. Switch to the **Scripting** tab (top menu)
+4. Create a new text file and paste the code from `planetside2_to_helldivers2_bones_names.py`
+5. **Select the Armature** object in the viewport
+6. Click the **Run Script** button (Play icon) or press `Alt+P`
+7. Check the result (a popup or console message will confirm the number of renamed bones)
 
 # ...
