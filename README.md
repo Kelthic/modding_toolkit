@@ -33,24 +33,24 @@ This tool designed to safely synchronize structural data between original mesh o
 It helps prevent common rigging and deformation issues caused by:
 
 * extra vertex groups
-* mismatched group order
+* mismatched **group order**
 * incorrect object pivots
-* accidental data drift between originals and new meshes
-* transfers object-level custom properties
+* accidental data drift between originals and **new meshes**
+* transfers object-level **custom properties**
 
 Personally, when creating new armor, I always duplicate the names of the necessary parts, imitating the original names. That is, the conditional original is “Torso_Undergarment_Slim_lod0,” and my new mesh is “Torso_Undergarment_Slim_lod0.001.”
 
 The add-on will automatically:
-* remove non-original vertex groups
+* remove **non-original** vertex groups
 * reorder groups correctly
-* restore the original pivot
+* restore the **original pivot**
 
 ### How to use
 
-1. Select the original meshes from which you want to save data (including weights, matrix-world, origins, custom properties) 
-2. Click Export Originals 
+1. Select the original meshes from which you want to save data (_including weights, matrix-world, origins, custom properties_) 
+2. Click **Export Originals **
 3. Now select the objects to which you want to transfer the saved data 
-4. Click Sync Duplicates 
+4. Click **Sync Duplicates** 
 5. Done! The data should have been transferred, and the monotonous work is gone
 
 **ensure that your new meshes have duplicate names of the original body parts**
