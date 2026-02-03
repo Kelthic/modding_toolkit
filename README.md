@@ -77,4 +77,6 @@ This repository contains a Python script for **Blender 4.2** designed to automat
 6. Click the **Run Script** button (Play icon) or press `Alt+P`
 7. Check the result (a popup or console message will confirm the number of renamed bones)
 
+_This script handles **renaming only**. It does not alter Bone Roll, Rest Poses, or Head/Tail positions. If the source and target skeletons have different base poses (e.g., T-pose vs A-pose), manual pose adjustment or retargeting might still be required before export_
+
 # ...
