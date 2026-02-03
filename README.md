@@ -1,7 +1,7 @@
 # Modding Toolkit
 This is my personal modding toolkit list for Blender
 
-## Weights Merger
+## [Weights Merger](https://github.com/Kelthic/modding_toolkit/tree/main/weights_merger)
 
 _Written for Blender 5.0.1_
 
@@ -24,7 +24,7 @@ Text manual:
 5. Click the button
 6. Success
 
-## Helldivers II Porting Assistant
+## [Helldivers II Porting Assistant](https://github.com/Kelthic/modding_toolkit/tree/main/hd2_porting_assistant)
 
 _Written for Blender 4.2_
 
@@ -61,7 +61,7 @@ The add-on does not rename or merge vertex groups.
 
 Original objects are never modified during synchronization.
 
-## PlanetSide 2 rig to Helldivers II rig
+## [PlanetSide 2 rig to Helldivers II rig](https://github.com/Kelthic/modding_toolkit/tree/main/hd2_ps2_hd2)
 
 _Written for Blender 4.2_
 
