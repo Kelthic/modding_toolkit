@@ -48,7 +48,7 @@ The add-on will automatically:
 ### How to use
 
 1. Select the original meshes from which you want to save data (_including weights, matrix-world, origins, custom properties_) 
-2. Click **Export Originals **
+2. Click **Export Originals**
 3. Now select the objects to which you want to transfer the saved data 
 4. Click **Sync Duplicates** 
 5. Done! The data should have been transferred, and the monotonous work is gone
