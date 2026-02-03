@@ -65,7 +65,7 @@ Original objects are never modified during synchronization.
 
 _Written for Blender 4.2_
 
-This repository contains a Python script for **Blender 4.2** designed to automatically rename character armature bones from **PlanetSide 2** to the **Helldivers II** naming convention.
+This one contains a Python script for **Blender 4.2** designed to automatically rename character armature bones from **PlanetSide 2** to the **Helldivers II** naming convention.
 
 ### How to Use
 
